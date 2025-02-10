@@ -21,7 +21,7 @@ import com.book.service.Service;
 
 import jakarta.validation.Valid;
 
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = "https://bookstorebasic.netlify.app/")
 @RestController
 public class Controller {
 	 @Autowired
